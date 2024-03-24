@@ -1,9 +1,9 @@
 package org.example.Task4;
 
-public class Microwave extends Device{
+public class Car extends Device{
     private String song;
 
-    public Microwave(String name, String abount, String song) {
+    public Car(String name, String abount, String song) {
         super(name, abount);
         this.song = song;
     }

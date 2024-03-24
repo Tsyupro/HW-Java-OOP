@@ -1,4 +1,6 @@
-package org.example;
+package org.example.Task2;
+
+import org.example.Task2.Animal;
 
 public class Tiger extends Animal {
     private String diet;

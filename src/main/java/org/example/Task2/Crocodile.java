@@ -1,6 +1,8 @@
-package org.example;
+package org.example.Task2;
 
-public class Crocodile extends Animal{
+import org.example.Task2.Animal;
+
+public class Crocodile extends Animal {
     private String type;
     private String skinColor;
     private double length;

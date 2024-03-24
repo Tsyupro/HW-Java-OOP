@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task2;
 
 public abstract class Animal {
     String name;

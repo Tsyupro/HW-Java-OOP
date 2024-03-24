@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task4;
 
 public abstract class Device {
     private String name;

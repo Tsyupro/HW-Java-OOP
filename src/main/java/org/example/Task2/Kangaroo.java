@@ -1,6 +1,8 @@
-package org.example;
+package org.example.Task2;
 
-public class Kangaroo extends Animal{
+import org.example.Task2.Animal;
+
+public class Kangaroo extends Animal {
     private String type;
     private int offspringCount;
     private String pouchSize;

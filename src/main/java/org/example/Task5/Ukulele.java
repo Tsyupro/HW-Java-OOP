@@ -1,7 +1,7 @@
 package org.example.Task5;
 
-public class Trombone extends MusicalInstrument{
-    public Trombone(String name) {
+public class Ukulele extends MusicalInstrument{
+    public Ukulele(String name) {
         super(name);
     }
 }

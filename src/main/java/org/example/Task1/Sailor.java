@@ -1,4 +1,4 @@
-package org.example;
+package org.example.Task1;
 
 public class Sailor extends Human{
     String shipName;
